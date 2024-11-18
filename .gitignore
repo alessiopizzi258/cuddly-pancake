@@ -14,4 +14,4 @@ db/
 
 ###########
 #non esclude i video della cartella temporanea già esclusa prima#
-!videos/temp/*
+!videos/temp/*""  
