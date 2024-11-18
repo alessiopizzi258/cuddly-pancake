@@ -1,0 +1,17 @@
+*.png
+*.jpg
+###########
+#comprende tutti i database#
+db/
+
+###########
+#comprende tutte le cartelle#
+*/temp/* 
+
+###########
+#comprende tutti i numeri#
+\#number
+
+###########
+#non esclude i video della cartella temporanea già esclusa prima#
+!videos/temp/*
